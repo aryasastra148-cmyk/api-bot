@@ -1,0 +1,20 @@
+{
+  "dependencies": {
+    "axios": "^1.8.4",
+    "child_process": "^1.0.2",
+    "dotenv": "^16.4.7",
+    "js-confuser": "^2.0.0",
+    "path": "^0.12.7",
+    "node-fetch": "^2.6.7",
+    "chalk": "^4.1.2",
+    "figlet": "^1.5.3",
+    "crypto": "^1.0.1",
+    "form-data": "^4.0.0",
+    "file-type": "^16.5.3",
+    "fake-useragent": "^1.0.1",
+    "fluent-ffmpeg": "^2.1.2",
+    "gradient-string": "^2.0.1",
+    "node-telegram-bot-api": "^0.66.0"
+  }
+}
+
